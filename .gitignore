@@ -9,4 +9,7 @@ files/
 log/
 public/
 tmp/
+coverage/
+plugins/
+themes/
 
